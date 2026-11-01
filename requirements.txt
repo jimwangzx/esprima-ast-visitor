@@ -1,4 +1,4 @@
 coveralls
 coverage
 mypy==0.521
-pylint==1.7.2
+pylint==4.0.9
